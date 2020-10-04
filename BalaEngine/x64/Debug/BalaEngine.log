@@ -1,0 +1,123 @@
+﻿  Camera.cpp
+  GameObject.cpp
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\LightRenderer.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Dependencies\bullet\include\LinearMath\btIDebugDraw.h(169,1): warning C4305: 'argumento': truncamiento de 'double' a 'const btScalar'
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Dependencies\bullet\include\LinearMath\btIDebugDraw.h(170,1): warning C4305: 'argumento': truncamiento de 'double' a 'const btScalar'
+  GOSphere.cpp
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Dependencies\bullet\include\LinearMath\btIDebugDraw.h(171,1): warning C4305: 'argumento': truncamiento de 'double' a 'const btScalar'
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\LightRenderer.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Dependencies\bullet\include\LinearMath\btIDebugDraw.h(169,1): warning C4305: 'argumento': truncamiento de 'double' a 'const btScalar'
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Dependencies\bullet\include\LinearMath\btIDebugDraw.h(170,1): warning C4305: 'argumento': truncamiento de 'double' a 'const btScalar'
+  Input.cpp
+  LightRenderer.cpp
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Dependencies\bullet\include\LinearMath\btIDebugDraw.h(171,1): warning C4305: 'argumento': truncamiento de 'double' a 'const btScalar'
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\LightRenderer.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Main.cpp
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\LightRenderer.cpp(75,65): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\LightRenderer.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Dependencies\bullet\include\LinearMath\btIDebugDraw.h(169,1): warning C4305: 'argumento': truncamiento de 'double' a 'const btScalar'
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Dependencies\bullet\include\LinearMath\btIDebugDraw.h(170,1): warning C4305: 'argumento': truncamiento de 'double' a 'const btScalar'
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Dependencies\bullet\include\LinearMath\btIDebugDraw.h(171,1): warning C4305: 'argumento': truncamiento de 'double' a 'const btScalar'
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Main.cpp(130,35): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Main.cpp(251,12): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'std::string'
+  Mesh.cpp
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Main.cpp(251,12): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 2 tiene el tipo 'std::string'
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Mesh.cpp(197,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Mesh.cpp(198,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Mesh.cpp(202,25): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Mesh.cpp(143,9): warning C4101: 'j': variable local sin referencia
+  MeshRenderer.cpp
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Mesh.cpp(143,6): warning C4101: 'i': variable local sin referencia
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\LightRenderer.h(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Dependencies\bullet\include\LinearMath\btIDebugDraw.h(169,1): warning C4305: 'argumento': truncamiento de 'double' a 'const btScalar'
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Dependencies\bullet\include\LinearMath\btIDebugDraw.h(170,1): warning C4305: 'argumento': truncamiento de 'double' a 'const btScalar'
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\Dependencies\bullet\include\LinearMath\btIDebugDraw.h(171,1): warning C4305: 'argumento': truncamiento de 'double' a 'const btScalar'
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\MeshRenderer.cpp(94,65): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+  ShaderLoader.cpp
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\MeshRenderer.cpp(99,65): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\ShaderLoader.cpp(27,44): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  TextRenderer.cpp
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\ShaderLoader.cpp(27,44): warning C4267: 'inicializando': conversión de 'size_t' a 'const int'; posible pérdida de datos
+  TextureLoader.cpp
+  Generando código...
+C:\Users\fdomi\source\repos\BalaEngine\BalaEngine\TextRenderer.cpp(68,24): warning C4838: la conversión de 'FT_Pos' en 'GLuint' requiere una conversión de restricción
+BulletCollision.lib(btCollisionObject.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btCollisionObject.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btCollisionShape.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btCollisionShape.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btConvexShape.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btConvexShape.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btCollisionDispatcher.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btCollisionDispatcher.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btDefaultCollisionConfiguration.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btDefaultCollisionConfiguration.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btDbvtBroadphase.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btDbvtBroadphase.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btManifoldResult.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btManifoldResult.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btPolyhedralConvexShape.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btPolyhedralConvexShape.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btConvexConvexAlgorithm.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btConvexConvexAlgorithm.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btEmptyCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btEmptyCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btConvexConcaveCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btConvexConcaveCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btCompoundCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btCompoundCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btCompoundCompoundCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btCompoundCompoundCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btConvexPlaneCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btConvexPlaneCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btBoxBoxCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btBoxBoxCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btSphereSphereCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btSphereSphereCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btSphereTriangleCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btSphereTriangleCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btDbvt.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btDbvt.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btOverlappingPairCache.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btOverlappingPairCache.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btConvexPolyhedron.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btConvexPolyhedron.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btActivatingCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btActivatingCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btPolyhedralContactClipping.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btPolyhedralContactClipping.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btCollisionAlgorithm.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btHashedSimplePairCache.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btHashedSimplePairCache.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletDynamics.lib(btRigidBody.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletDynamics.lib(btRigidBody.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletDynamics.lib(btDiscreteDynamicsWorld.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletDynamics.lib(btDiscreteDynamicsWorld.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletDynamics.lib(btSequentialImpulseConstraintSolver.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletDynamics.lib(btSequentialImpulseConstraintSolver.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletDynamics.lib(btTypedConstraint.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletDynamics.lib(btTypedConstraint.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletDynamics.lib(btConeTwistConstraint.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletDynamics.lib(btConeTwistConstraint.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletDynamics.lib(btGeneric6DofConstraint.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletDynamics.lib(btGeneric6DofConstraint.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+LinearMath.lib(btConvexHullComputer.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+LinearMath.lib(btConvexHullComputer.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+LinearMath.lib(btGeometryUtil.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+LinearMath.lib(btGeometryUtil.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+LinearMath.lib(btQuickprof.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+LinearMath.lib(btQuickprof.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btCollisionWorld.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btCollisionWorld.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btSimulationIslandManager.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btSimulationIslandManager.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btBvhTriangleMeshShape.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btBvhTriangleMeshShape.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btUnionFind.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btUnionFind.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btQuantizedBvh.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btQuantizedBvh.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+BulletCollision.lib(btOptimizedBvh.obj) : error LNK2038: se detectaron diferencias para '_ITERATOR_DEBUG_LEVEL': el valor '0' no coincide con el valor '2' en Camera.obj
+BulletCollision.lib(btOptimizedBvh.obj) : error LNK2038: se detectaron diferencias para 'RuntimeLibrary': el valor 'MD_DynamicRelease' no coincide con el valor 'MDd_DynamicDebug' en Camera.obj
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+C:\Users\fdomi\source\repos\BalaEngine\x64\Debug\BalaEngine.exe : fatal error LNK1319: diferencias detectadas: 78
